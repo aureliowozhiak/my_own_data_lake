@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="zvTsEfNbftwCAJqFLPBo" name="Página-1">
+        <mxGraphModel dx="1005" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;h1&gt;&lt;span&gt;My Own Data Lake&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(48 , 49 , 52) ; color: rgb(232 , 234 , 237) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; white-space: pre-wrap ; font-weight: normal&quot;&gt;The basic idea of ​​this project is to create a &quot;self-service data lake&quot; for data from small businesses and self-employed professionals.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="15" y="35" width="250" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="endArrow=classic;html=1;fontSize=9;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="130" y="290" as="sourcePoint"/>
+                        <mxPoint x="360" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="&lt;span&gt;connect its data sources&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=9;" connectable="0" vertex="1" parent="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="our client" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;fontSize=9;" connectable="0" vertex="1" parent="13">
+                    <mxGeometry x="-1" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="to the system" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=9;" connectable="0" vertex="1" parent="13">
+                    <mxGeometry x="1" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.verbal;pointerEvents=1;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="230" width="50" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.move_by_forklift;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="200" width="60" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="process the data, create some views and insights to the client" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.outside_sources;whiteSpace=wrap;align=center;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="230" width="120" height="100" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
