@@ -1,35 +1,65 @@
 <mxfile host="65bd71144e">
     <diagram id="zvTsEfNbftwCAJqFLPBo" name="main_page">
-        <mxGraphModel dx="1005" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1529" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="&lt;h1&gt;&lt;span&gt;My Own Data Lake&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(48 , 49 , 52) ; color: rgb(232 , 234 , 237) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; white-space: pre-wrap ; font-weight: normal&quot;&gt;The basic idea of ​​this project is to create a &quot;self-service data lake&quot; for data from small businesses and self-employed professionals.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                <mxCell id="2" value="&lt;h1&gt;&lt;span&gt;My Own Data Lake&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(48 , 49 , 52) ; color: rgb(232 , 234 , 237) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; white-space: pre-wrap ; font-weight: normal&quot;&gt;The basic idea of ​​this project is to create a &quot;self-service data lake&quot; for data from small businesses and self-employed professionals.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="15" y="35" width="250" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="" style="endArrow=classic;html=1;fontSize=9;" edge="1" parent="1">
+                <mxCell id="13" value="" style="endArrow=classic;html=1;fontSize=9;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="130" y="290" as="sourcePoint"/>
                         <mxPoint x="360" y="290" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="14" value="&lt;span&gt;connect its data sources&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=9;" connectable="0" vertex="1" parent="13">
+                <mxCell id="14" value="&lt;span&gt;connect its data sources&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=9;" parent="13" connectable="0" vertex="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="our client" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;fontSize=9;" connectable="0" vertex="1" parent="13">
+                <mxCell id="15" value="our client" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;fontSize=9;" parent="13" connectable="0" vertex="1">
                     <mxGeometry x="-1" relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="to the system" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=9;" connectable="0" vertex="1" parent="13">
+                <mxCell id="16" value="to the system" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=9;" parent="13" connectable="0" vertex="1">
                     <mxGeometry x="1" relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.verbal;pointerEvents=1;fontSize=9;" vertex="1" parent="1">
+                <mxCell id="27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.verbal;pointerEvents=1;fontSize=9;" parent="1" vertex="1">
                     <mxGeometry x="80" y="230" width="50" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.move_by_forklift;fontSize=9;" vertex="1" parent="1">
+                <mxCell id="28" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.move_by_forklift;fontSize=9;" parent="1" vertex="1">
                     <mxGeometry x="220" y="200" width="60" height="65" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="process the data, create some views and insights to the client" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.outside_sources;whiteSpace=wrap;align=center;fontSize=9;" vertex="1" parent="1">
+                <mxCell id="29" value="process the data, create some views and insights to the client" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.outside_sources;whiteSpace=wrap;align=center;fontSize=9;" parent="1" vertex="1">
                     <mxGeometry x="370" y="230" width="120" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="9" y="360" as="sourcePoint"/>
+                        <mxPoint x="819" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="Python Script usign Pandas and SQL libraries" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.batched_kanban;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="545" width="355" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1.5em;width:100%;height:100%;&quot;&gt;&lt;tr&gt;&lt;td height=&quot;65%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; height=&quot;35%&quot;&gt;IN&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.orders;overflow=fill;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="555" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.mrp_erp;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="495" y="540" width="180" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="v0.01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="15" y="380" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(48 , 49 , 52) ; color: rgb(232 , 234 , 237) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;in our beta version, the idea is to create a generic script that accepted CSVs, Json and Excel files loaded by hand and create a schema in the database with the username of the person who entered the data in the database using python functions to create this database automatically.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="390" width="320" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(48 , 49 , 52) ; color: rgb(232 , 234 , 237) ; font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;a database schema created for username passed the base file&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="505" y="565" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="8" y="700" as="sourcePoint"/>
+                        <mxPoint x="818" y="700" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>
